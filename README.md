@@ -14,6 +14,24 @@
 
 </div>
 
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="cute coding cat"/>
+
+<br/>
+
+### 🐾 tiny coding companions
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180" alt="cute anime coding character"/>
+
+<br/>
+
+<sub>one character writes code • one character judges the code • both are adorable</sub>
+
+</div>
+
+
 ---
 
 ## whoami
@@ -130,6 +148,13 @@ Small progress every day > pretending I understood the solution.
 <img src="https://streak-stats.demolab.com?user=THEsoham&hide_border=true&background=00000000&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
+
+<div align="center">
+
+🐱 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" alt="coding cat"/> &nbsp;&nbsp; 💻 &nbsp;&nbsp; ✨
+
+</div>
+
 
 ---
 
